@@ -1,4 +1,4 @@
-# Eshop Website
+# Analyzer Website
 
 ## Created by:
 
@@ -35,4 +35,7 @@ JWT_SECRET
 ## Login and Registration Page
 
 ![](<Screenshots/Screenshot%20(558).png>)
+
+## How extension will look
+
 ![](Screenshots/extension-gfg.png)
