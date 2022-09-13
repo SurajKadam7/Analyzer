@@ -1,0 +1,40 @@
+.page-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+.abc{
+    display: block;
+}
+
+.page-number{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    height: 5px;
+    width: 5px;
+    padding:20px;
+    margin: 0 5px;
+
+}
+
+.page-range{
+    padding:10px;
+    font-weight: bold;
+}
+
+.page-number:hover{
+    color: white;
+    border-radius: 50%;
+    background-color: blue;
+}
+
+.first1{
+    color: white;
+    border-radius: 50%;
+    background-color: rgba(0, 0, 255, 0.741);
+}
+

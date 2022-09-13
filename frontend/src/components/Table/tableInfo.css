@@ -1,0 +1,21 @@
+.table-info-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.zoom-in-out.abc-table.ab-table{
+    cursor: pointer;
+    color: rgb(41, 61, 214);
+    font-size: 30px;
+}
+
+.zoom-container{
+    display: flex;
+    align-items: center;
+}
+
+.blank{
+    padding: 30px;
+}

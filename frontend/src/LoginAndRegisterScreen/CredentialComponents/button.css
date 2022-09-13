@@ -1,0 +1,23 @@
+
+
+.hrf-line{
+    text-decoration: none;
+}
+
+.btn{
+    padding: 20px 60px;
+    background-color: rgb(61, 77, 203);
+    border-radius: 10px;
+    color: white;
+    cursor: pointer;
+    text-align: center;
+}
+
+.btn-input{
+    border: none;
+    font-weight: bold;
+    width: fit-content;
+    resize: none;
+    outline: none;
+    background-color: transparent;
+}

@@ -1,0 +1,29 @@
+.difficulty-hidden-container{
+    position: absolute;
+    flex-direction: column;
+    background-color: rgba(41, 61, 214, 0.227);
+    padding: 10px 0;
+    border-radius: 10px;
+    color: rgb(41, 61, 214);
+    font-weight: bold;
+}
+
+.difficulty-filter-tab{
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    background-color: rgb(41, 61, 214);
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.abcde1{
+    margin-right: 10px;
+    color: white;
+    font-weight: bold;
+}
+
+.abcde2{
+    color: white;
+    cursor: pointer;
+}
+

@@ -1,0 +1,38 @@
+
+
+.navbar-content-container{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;  
+}
+
+
+.navbar-container{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(61, 77, 203);
+    height: 100%;
+    color: white;
+    padding: 0px 50px 0px 30px;
+    
+}  
+
+.abcd-nav {
+    cursor: pointer;
+}
+
+.navbar-heading-container{
+    margin-top: 20px;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.abcdef-container{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}

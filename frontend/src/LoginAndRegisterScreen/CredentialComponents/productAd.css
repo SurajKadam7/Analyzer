@@ -1,0 +1,12 @@
+.flex-c-h-w{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.product-details-container{
+    color: white;
+    background-color: rgb(61, 77, 203);
+    height: 80vh;
+    width: 40vw;
+    border-radius: 20px 0px 0px 20px;
+}

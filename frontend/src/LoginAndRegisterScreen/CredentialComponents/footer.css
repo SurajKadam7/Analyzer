@@ -1,0 +1,26 @@
+.footer-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    gap: 50px
+}
+
+.anchor{
+    color: rgb(61, 77, 203);
+}
+/* rgb(81, 81, 212) */
+.line-below{
+    border-bottom:2px solid rgb(61, 77, 203);
+}
+.span-slash{
+    padding: 0 5px;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+
+.hrf-line{
+    text-decoration: none;
+}

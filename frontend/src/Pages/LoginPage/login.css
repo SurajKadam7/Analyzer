@@ -1,0 +1,78 @@
+.bold{
+    font-weight: bold;
+}
+.main-container{
+    background-color: rgba(61, 77, 203, 0.484);
+    height: 100vh;
+}
+/* rgba(61, 77, 203, 0.368); */
+.couple-container{
+    display: flex;
+    box-shadow: 10px 10px 18px 5px rgba(0, 0, 0, 0.237);
+    border-radius: 20px;
+}
+
+.flex-c-h-w{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/* rgba(61, 77, 203, 0.679) */
+
+.login-screen-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    height: 80vh;
+    width: 30vw;
+    border-radius: 0px 20px 20px 0px;
+}
+
+
+.sub-container{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    width: fit-content;
+    height: fit-content;
+    border-radius: 10px;
+    
+}
+
+
+/* rgb(101, 101, 216) */
+
+/* rgba(85, 85, 213, 0.11) */
+.credential-container{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    /* align-items: center; */
+}
+
+.sign-in{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.btn{
+    padding: 20px 60px;
+    background-color: rgb(61, 77, 203);
+    border-radius: 10px;
+    color: white;
+    cursor: pointer;
+    text-align: center;
+    border: none;
+    outline: none;
+    font-weight: bold;
+}
+
+.btn:hover{
+    background-color: rgb(28, 49, 206);
+}
+

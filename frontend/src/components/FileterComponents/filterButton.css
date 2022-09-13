@@ -1,0 +1,12 @@
+.filter-btn{
+    cursor: pointer;
+    margin: 5px;
+    padding: 10px 40px;
+    display: block;
+    border-radius: 5px;
+}
+
+.filter-btn:hover{
+    background-color: rgba(41, 61, 214, 0.858);
+    color: white;
+}

@@ -1,0 +1,15 @@
+.hompage-container{
+    border: 5px solid rgb(61, 77, 203);
+    display: flex;
+    flex-grow: 1;
+    height: 100vh;
+    
+    
+}
+
+.homepage-sub-container{
+    display: flex;
+    flex-direction: column;
+    background-color:rgba(217, 220, 241, 0.197);
+    flex-grow: 1;
+}
