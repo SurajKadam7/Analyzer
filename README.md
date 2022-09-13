@@ -35,6 +35,7 @@ JWT_SECRET
 ## Login and Registration Page
 
 ![](<Screenshots/Screenshot%20(558).png>)
+![](<Screenshots/Screenshot%20(561).png>)
 
 ## How extension will look
 
